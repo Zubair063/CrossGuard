@@ -1,4 +1,4 @@
-# CrossGuard: LLM-based Cross-Language Attack Detection
+# CrossGuard: LLM-based Cross-Language Attack Detection and Annotation
 
 This project uses LLM (Large Language Model) to identify and annotate cross-language attacks (CLA) in Rust-C FFI code.
 
