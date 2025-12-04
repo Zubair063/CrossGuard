@@ -1,0 +1,132 @@
+function_name,attack_type,language,label
+print_array_addr_4,Rust Lifetime Bypass Attack,C,2
+user_given_array_4,Rust Bounds Check Bypass Attack,C,1
+array_min,Not an Attack,C,0
+user_set_array_12,Hardening Bypass via Stack Overflow,C,3
+print_array_addr_15,Rust Lifetime Bypass Attack,C,2
+print_array_addr_10,Rust Lifetime Bypass Attack,C,2
+get_cb_from_c_18,Intended Interaction Corruption,C,5
+compute_fibonacci,Not an Attack,C,0
+user_set_array_9,Hardening Bypass via Stack Overflow,C,3
+get_cb_from_c_5,Intended Interaction Corruption,C,5
+print_array_addr_2,Rust Lifetime Bypass Attack,C,2
+subtract_numbers,Not an Attack,C,0
+user_given_array_11,Rust Bounds Check Bypass Attack,C,1
+user_given_array_8,Rust Bounds Check Bypass Attack,C,1
+get_cb_from_c_20,Intended Interaction Corruption,C,5
+print_array_addr_9,Rust Lifetime Bypass Attack,C,2
+user_given_array_12,Rust Bounds Check Bypass Attack,C,1
+count_occurrences,Not an Attack,C,0
+user_set_array_8,Hardening Bypass via Stack Overflow,C,3
+find_max,Not an Attack,C,0
+print_array_addr_5,Rust Lifetime Bypass Attack,C,2
+user_given_vec_2,Dynamic Bounds Corruption (Vec Metadata),C,4
+user_given_array_6,Rust Bounds Check Bypass Attack,C,1
+user_given_array_17,Rust Bounds Check Bypass Attack,C,1
+print_array_addr_17,Rust Lifetime Bypass Attack,C,2
+get_cb_from_c_16,Intended Interaction Corruption,C,5
+user_given_array_16,Rust Bounds Check Bypass Attack,C,1
+multiply_numbers,Not an Attack,C,0
+user_set_array_18,Hardening Bypass via Stack Overflow,C,3
+user_set_array_3,Hardening Bypass via Stack Overflow,C,3
+user_set_array_6,Hardening Bypass via Stack Overflow,C,3
+user_set_array_5,Hardening Bypass via Stack Overflow,C,3
+get_cb_from_c_10,Intended Interaction Corruption,C,5
+get_cb_from_c_14,Intended Interaction Corruption,C,5
+user_set_array_13,Hardening Bypass via Stack Overflow,C,3
+check_even,Not an Attack,C,0
+add_numbers,Not an Attack,C,0
+user_given_array_18,Rust Bounds Check Bypass Attack,C,1
+print_array_addr_14,Rust Lifetime Bypass Attack,C,2
+user_given_array_20,Rust Bounds Check Bypass Attack,C,1
+print_array_addr_16,Rust Lifetime Bypass Attack,C,2
+user_given_array_14,Rust Bounds Check Bypass Attack,C,1
+user_given_array_7,Rust Bounds Check Bypass Attack,C,1
+user_given_array_9,Rust Bounds Check Bypass Attack,C,1
+user_given_array_5,Rust Bounds Check Bypass Attack,C,1
+divide_numbers,Not an Attack,C,0
+user_given_array_15,Rust Bounds Check Bypass Attack,C,1
+user_set_array_20,Hardening Bypass via Stack Overflow,C,3
+reverse_array,Not an Attack,C,0
+user_given_vec_9,Dynamic Bounds Corruption (Vec Metadata),C,4
+compute_gcd,Not an Attack,C,0
+user_given_array_19,Rust Bounds Check Bypass Attack,C,1
+compute_power,Not an Attack,C,0
+user_given_vec_14,Dynamic Bounds Corruption (Vec Metadata),C,4
+user_set_array_15,Hardening Bypass via Stack Overflow,C,3
+user_given_vec_4,Dynamic Bounds Corruption (Vec Metadata),C,4
+user_given_vec_10,Dynamic Bounds Corruption (Vec Metadata),C,4
+sum_digits,Not an Attack,C,0
+print_array_addr_3,Rust Lifetime Bypass Attack,C,2
+user_given_vec_20,Dynamic Bounds Corruption (Vec Metadata),C,4
+compute_factorial,Not an Attack,C,0
+print_array_addr_19,Rust Lifetime Bypass Attack,C,2
+user_given_array_3,Rust Bounds Check Bypass Attack,C,1
+get_cb_from_c_8,Intended Interaction Corruption,C,5
+user_given_array_1,Rust Bounds Check Bypass Attack,C,1
+user_given_vec_8,Dynamic Bounds Corruption (Vec Metadata),C,4
+get_cb_from_c_12,Intended Interaction Corruption,C,5
+check_odd,Not an Attack,C,0
+absolute_value,Not an Attack,C,0
+user_set_array_2,Hardening Bypass via Stack Overflow,C,3
+print_array_addr_7,Rust Lifetime Bypass Attack,C,2
+user_given_vec_18,Dynamic Bounds Corruption (Vec Metadata),C,4
+get_cb_from_c_19,Intended Interaction Corruption,C,5
+get_cb_from_c_3,Intended Interaction Corruption,C,5
+user_given_array_10,Rust Bounds Check Bypass Attack,C,1
+user_given_vec_19,Dynamic Bounds Corruption (Vec Metadata),C,4
+check_prime,Not an Attack,C,0
+user_set_array_11,Hardening Bypass via Stack Overflow,C,3
+print_array_addr_6,Rust Lifetime Bypass Attack,C,2
+user_set_array_1,Hardening Bypass via Stack Overflow,C,3
+get_cb_from_c_1,Intended Interaction Corruption,C,5
+user_set_array_19,Hardening Bypass via Stack Overflow,C,3
+get_cb_from_c_17,Intended Interaction Corruption,C,5
+user_set_array_17,Hardening Bypass via Stack Overflow,C,3
+user_given_array_13,Rust Bounds Check Bypass Attack,C,1
+user_given_vec_12,Dynamic Bounds Corruption (Vec Metadata),C,4
+user_given_vec_6,Dynamic Bounds Corruption (Vec Metadata),C,4
+print_array_addr_13,Rust Lifetime Bypass Attack,C,2
+user_set_array_10,Hardening Bypass via Stack Overflow,C,3
+compute_lcm,Not an Attack,C,0
+user_set_array_16,Hardening Bypass via Stack Overflow,C,3
+get_cb_from_c_13,Intended Interaction Corruption,C,5
+get_cb_from_c_15,Intended Interaction Corruption,C,5
+user_given_vec_3,Dynamic Bounds Corruption (Vec Metadata),C,4
+user_given_vec_1,Dynamic Bounds Corruption (Vec Metadata),C,4
+print_array_addr_20,Rust Lifetime Bypass Attack,C,2
+user_given_vec_15,Dynamic Bounds Corruption (Vec Metadata),C,4
+print_array_addr_1,Rust Lifetime Bypass Attack,C,2
+array_average,Not an Attack,C,0
+user_set_array_4,Hardening Bypass via Stack Overflow,C,3
+get_cb_from_c_7,Intended Interaction Corruption,C,5
+print_array_addr_8,Rust Lifetime Bypass Attack,C,2
+user_given_vec_7,Dynamic Bounds Corruption (Vec Metadata),C,4
+user_set_array_14,Hardening Bypass via Stack Overflow,C,3
+get_cb_from_c_9,Intended Interaction Corruption,C,5
+user_given_vec_16,Dynamic Bounds Corruption (Vec Metadata),C,4
+get_cb_from_c_2,Intended Interaction Corruption,C,5
+user_given_vec_11,Dynamic Bounds Corruption (Vec Metadata),C,4
+check_sorted,Not an Attack,C,0
+array_max,Not an Attack,C,0
+user_given_vec_5,Dynamic Bounds Corruption (Vec Metadata),C,4
+get_cb_from_c_6,Intended Interaction Corruption,C,5
+get_cb_from_c_4,Intended Interaction Corruption,C,5
+print_array_addr_11,Rust Lifetime Bypass Attack,C,2
+user_set_array_7,Hardening Bypass via Stack Overflow,C,3
+user_given_vec_13,Dynamic Bounds Corruption (Vec Metadata),C,4
+find_min,Not an Attack,C,0
+count_digits,Not an Attack,C,0
+user_given_array_2,Rust Bounds Check Bypass Attack,C,1
+get_cb_from_c_11,Intended Interaction Corruption,C,5
+product_digits,Not an Attack,C,0
+print_array_addr_18,Rust Lifetime Bypass Attack,C,2
+print_array_addr_12,Rust Lifetime Bypass Attack,C,2
+user_given_vec_17,Dynamic Bounds Corruption (Vec Metadata),C,4
+array_sum,Not an Attack,C,0
+init,Not an Attack,C,0
+log_idx,Not an Attack,C,0
+log_ptr,Not an Attack,C,0
+log_stack,Not an Attack,C,0
+log_slot,Not an Attack,C,0
+helper_function,Not an Attack,C,0

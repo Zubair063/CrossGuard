@@ -1,0 +1,7 @@
+function_name,attack_type,language,label
+user_set_array,Hardening Bypass via Stack Overflow,C,3
+user_given_array,Rust Bounds Check Bypass Attack,C,1
+print_array_addr,Rust Lifetime Bypass Attack,C,2
+get_cb_from_c,Intended Interaction Corruption,C,5
+init,Not an Attack,C,0
+user_given_vec,Dynamic Bounds Corruption (Vec Metadata),C,4

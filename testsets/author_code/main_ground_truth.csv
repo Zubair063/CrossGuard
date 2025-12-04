@@ -1,0 +1,7 @@
+function_name,attack_type,language,label
+attack,Not an Attack,Rust,0
+doubler,Not an Attack,Rust,0
+incrementer,Not an Attack,Rust,0
+analyze_data,Not an Attack,Rust,0
+get_attack,Not an Attack,Rust,0
+main,Not an Attack,Rust,0
