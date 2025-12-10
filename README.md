@@ -136,12 +136,6 @@ CrossGuard/
 └── requirements_llm.txt        # Python dependencies
 ```
 
-**Optional components** (for other tools in the project):
-- `parser.py` - Code parser (not required for LLM annotator)
-- `build_language.py` - Build tree-sitter library (not required for LLM annotator)
-- `parser_output/` - Parser JSON outputs (not required for LLM annotator)
-- `build/` - Compiled tree-sitter library (not required for LLM annotator)
-
 ## Troubleshooting
 
 **Error: OpenAI API key not provided**
